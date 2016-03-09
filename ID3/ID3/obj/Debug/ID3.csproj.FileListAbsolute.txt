@@ -1,0 +1,6 @@
+u:\visual studio 2013\Projects\ID3\ID3\bin\Debug\ID3.exe.config
+u:\visual studio 2013\Projects\ID3\ID3\obj\Debug\ID3.csprojResolveAssemblyReference.cache
+u:\visual studio 2013\Projects\ID3\ID3\bin\Debug\ID3.exe
+u:\visual studio 2013\Projects\ID3\ID3\bin\Debug\ID3.pdb
+u:\visual studio 2013\Projects\ID3\ID3\obj\Debug\ID3.exe
+u:\visual studio 2013\Projects\ID3\ID3\obj\Debug\ID3.pdb
